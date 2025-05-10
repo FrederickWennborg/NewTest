@@ -5,3 +5,6 @@
 # den riktiga koden nu!
 
 # Det börjar bli bra kod nu!
+
+
+print("Hello, World!")
